@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{4A58D501-E26A-4D46-BFFE-37CF99E8F331}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="blazor-e-commerce-webapp" expanded="True">
+            <Node name="blazor-e-commerce-webapp">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Shared" expanded="True">
+                <Node name="MainLayout.razor" expanded="True" />
+                <Node name="NavMenu.razor" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" selected="True">
+                <Node name="css" expanded="True">
+                  <Node name="bootstrap" expanded="True" />
+                  <Node name="open-iconic" expanded="True" />
+                </Node>
+                <Node name="sample-data" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.blazor-e-commerce-webapp PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
